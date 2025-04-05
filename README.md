@@ -8,9 +8,9 @@ Sequoia 15.4 (24E248)
 
 ## Hardware
 
-| Hardware | Mode |
-| -------- | ----- |
-| CPU | i5-12400f |
-| GPU | AMD RX580 |
-| RAM | 16GB |
+| Hardware         | Details                     |
+| ---------------- | --------------------------- |
+| CPU              | 12th Gen Intel Core i5-12400F |
+| GPU              | AMD Radeon RX 580           |
+| RAM              | 16GB                        |
 
